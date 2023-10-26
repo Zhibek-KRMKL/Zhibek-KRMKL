@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to contact me: 
 - thezhibeks@gmai.com
 - @thezhibek (telegram)
-- @zhibek_krmkl (instagram) 
+- @zhibek_krmkl (instagram)
 -->
