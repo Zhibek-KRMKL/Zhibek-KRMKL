@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I need help with my internship :))
 - 💬 Ask me about html/css/js/react and a little bit of Redux))
 - 📫 How to contact me: 
-- thezhibeks@gmai.com 
+- thezhibeks@gmail.com
 - @thezhibek (telegram)
 - @zhibek_krmkl (instagram) 
 -->
