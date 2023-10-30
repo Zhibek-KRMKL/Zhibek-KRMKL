@@ -1,9 +1,6 @@
 ### Hi there 👋
-TEST
-<!--
-**Zhibek-KRMKL/Zhibek-KRMKL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I'm currently working on improving REACT, GitHub
 - 🌱 Now I’m learning and improving my hard skills from @lianansan
@@ -13,5 +10,9 @@ Here are some ideas to get you started:
 - 📫 How to contact me: 
 - thezhibeks@gmail.com
 - @thezhibek (telegram)
-- @zhibek_krmkl (instagram) 
+- @zhibek_krmkl (instagram)
+<!--
+Here are some ideas to get you started:
+**Zhibek-KRMKL/Zhibek-KRMKL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
 -->
